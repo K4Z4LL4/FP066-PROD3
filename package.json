@@ -1,7 +1,7 @@
 {
-  "name": "kanbanflow-prod2",
+  "name": "kanbanflow-prod3",
   "version": "1.0.0",
-  "description": "Producto 2 de la aplicación Kanban",
+  "description": "Producto 3 de la aplicación Kanban",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LaisGimenez/fullstack-prod2.git"
+    "url": "https://github.com/K4Z4LL4/FP066-PROD3.git"
   },
   "author": "FullStackFlow",
   "license": "ISC",
